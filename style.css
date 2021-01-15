@@ -1,18 +1,1 @@
-.heading{
-    font-weight:bolder;
-    border-radius:10px;
-    text-align:center;
-    font-size:xx-large;
-}
-body{
-    background-image: url('bg.gif');
-    background-size: repeat;
-    background-position-y:-1in ;
-}
-canvas{
-    border:5px black ridge;
-    box-shadow: 5px 5px 5px black;
-}
-.a{
-    font-size:20px;
-}
+.heading{font-weight:bolder;border-radius:10px;text-align:center;font-size:xx-large;}body{background-image: url('bg.gif');background-size: repeat;background-position-y:-1in ;}canvas{border:5px black ridge;box-shadow: 5px 5px 5px black;margin-top:100px;}.a{font-size:20px;}.btn{opacity: 70%;}.btn-warning{opacity: 50%;}
